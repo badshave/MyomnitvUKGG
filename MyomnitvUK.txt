@@ -1,0 +1,1212 @@
+#EXTINF:-1,DAZN EVENTOS 1 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiqkuWXpqkPJVbn1CxNSMds
+#EXTINF:-1,DAZN EVENTOS 2 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj-MPY1Yk303B4_qfBDklne
+#EXTINF:-1,DAZN EVENTOS 3 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhZ1F9pVHuynD-hfBGNS85R
+#EXTINF:-1,DAZN EVENTOS 4 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj2wBGHkNbBo98XnwM5iTPZ
+#EXTINF:-1,DAZN EVENTOS 5 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh4bHwfbvVdMvc3lOGnPPAN
+#EXTINF:-1,FootballClub 1 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhb9PxjtxWRFingMX_3PC3c
+#EXTINF:-1,FootballClub 2 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGidnfUqWdcGdO_Oamy0lWy6
+#EXTINF:-1,FootballClub 3 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGggblkUwsIifRJjGqyg_nXP
+#EXTINF:-1,FootballClub 4 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgYuW_9ih2DSkZGSPXgdVoo
+#EXTINF:-1,FootballClub 5 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg0q06F-uImhnugfSFi4aGh
+#EXTINF:-1,FootballClub 6 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjbeb76roV0fZ3TNqInApEY
+#EXTINF:-1,FootballClub 7 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh-bwTZgdkLAkGU5zmjAP8M
+#EXTINF:-1,FootballClub 8 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiZHpATMFbgmGU80Isli45b
+#EXTINF:-1,FootballClub 9 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjcE3ho-_StnncOVODhBeCd
+#EXTINF:-1,FootballClub 10 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgRubC2MQpWrAMUscxzpIsn
+#EXTINF:-1,FootballClub 11 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgjBLpIbigIQAwN-WeLGoRi
+#EXTINF:-1,FootballClub 12 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjBDOkJ8k_ubm2LdJAxpno_
+#EXTINF:-1,FootballClub 13 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgFXaoZkX6kOvFZU_rcc5xF
+#EXTINF:-1,FootballClub 14 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg1ymu4pWxLab-jPXckey9R
+#EXTINF:-1,FootballClub 15 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi5f1QX0cStUN5m2XKHtIgO
+#EXTINF:-1,Eurosport Eventos 1 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjZfjbbMXgOYXrmTsKEvd_m
+#EXTINF:-1,Eurosport Eventos 2 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhG1e19t8UNJ-Vtu0f9baWD
+#EXTINF:-1,Eurosport Eventos 3 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj0ogjXej3dEzPG2z3bBNXr
+#EXTINF:-1,Eurosport Eventos 4 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjChka0Oc2O8fWL-u8RztDY
+#EXTINF:-1,Eurosport Eventos 5 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgW1dysT4KzOWISpSnu_7Bz
+#EXTINF:-1,Eurosport Eventos 6 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjm1h9NUDSAbB8FH3j2su60
+#EXTINF:-1,Eurosport Eventos 7 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjZU4Sjvw_P8gOtWToLtomL
+#EXTINF:-1,Eurosport Eventos 8 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg2DgBxlDlJPsDMb2-Y7LSF
+#EXTINF:-1,Eurosport Eventos 9 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgmZAURIHH2HrmAdDFDWwOH
+#EXTINF:-1,Eurosport Eventos 10 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhTuXWUFhInfsKrpqDUAUGg
+#EXTINF:-1,Eurosport Eventos 11 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjyTQTXY9I1QI8umh2sO3J7
+#EXTINF:-1,Eurosport Eventos 12 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjL1BEQDSU_aRacKz-eXgY_
+#EXTINF:-1,Eurosport Eventos 13 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi0WhSNbr3dBYozbcadKLAy
+#EXTINF:-1,Eurosport Eventos 14 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh7eykf4bS9UAzI8hTSoXCh
+#EXTINF:-1,Eurosport Eventos 15 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhhw_mfu0BmKYtMCYjbqD6V
+#EXTINF:-1,Eurosport Eventos 16 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhVcWLeCCQADoNogSEHThsC
+#EXTINF:-1,Eurosport Eventos 17 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgyJ5aq8isZso8_3MjXnPcl
+#EXTINF:-1,Eurosport Eventos 18 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg5bjMk5PY0aHPArKeoPCUw
+#EXTINF:-1,Eurosport Eventos 19 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjL1BxkBaCrbxW0X-WqVfKg
+#EXTINF:-1,Eurosport Eventos 20 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiDfk6Ccmmz191qTnAyxQMr
+#EXTINF:-1,Eurosport Eventos 21 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgQzKP5s7DfI6p8shZDVLIx
+#EXTINF:-1,Eurosport Eventos 22 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjC9l-jzk-ceTBiOX6jjrYf
+#EXTINF:-1,Eurosport Eventos 23 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjYqZqUOKi-D0qp8eP0LIxK
+#EXTINF:-1,Eurosport Eventos 24 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgIK69ArsSsnzBhlm9y4Bnc
+#EXTINF:-1,Eurosport Eventos 25 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj2Z7BSGg3yDrzBS-fs2UED
+#EXTINF:-1,Eurosport Eventos 26 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjAbaKQRU-wZERtCPmYw_rA
+#EXTINF:-1,Eurosport Eventos 27 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh3Iog_RwdI_cgcJQfMyXBf
+#EXTINF:-1,Eurosport Eventos 28 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj5TEsGpoQbxSN2XBs5dy-v
+#EXTINF:-1,Eurosport Eventos 29 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh7fXiqUWg-Ze0rFCzsebad
+#EXTINF:-1,Eurosport Eventos 30 FHD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiaYVsc51amlruI5bswCx74
+#EXTINF:-1,LaLigaSportsTV 1 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhdIsMGlhTN2da485-jI_ap
+#EXTINF:-1,LaLigaSportsTV 2 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgvOoa5Zk5yeoO_V1-EPh_5
+#EXTINF:-1,LaLigaSportsTV 3 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjPfKBPBw8lnlaKN1I7cOm1
+#EXTINF:-1,LaLigaSportsTV 4 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgTFEfQdNbcTqVLuMDLaco7
+#EXTINF:-1,LaLigaSportsTV 5 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjFo0kTyHmK4B1g28OtTg02
+#EXTINF:-1,LaLigaSportsTV 6 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh-pKWKP4LKENfMFiOTWxMn
+#EXTINF:-1,LaLigaSportsTV 7 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgyIQcTpdPfyH1f8qqrMtTP
+#EXTINF:-1,LaLigaSportsTV 8 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhV1lG3txMWFEblPFp9TKHd
+#EXTINF:-1,LaLigaSportsTV 9 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgy8fHw7UWdaog-1E2QEW3o
+#EXTINF:-1,LaLigaSportsTV 10 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhzVvPSB5i81pEBVfzY7BSJ
+#EXTINF:-1,LaLigaSportsTV 11 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjzoSQc01T51nTfyAVhjvIu
+#EXTINF:-1,LaLigaSportsTV 12 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj2VaJCKStsOsJzvBcHm9Go
+#EXTINF:-1,LaLigaSportsTV 13 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhVKbT-zzdSDv5VASn85_h-
+#EXTINF:-1,LaLigaSportsTV 14 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi3qMKtLatk2mdQt7PW91HN
+#EXTINF:-1,LaLigaSportsTV 15 ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg189rbWTXWZ39atVqCHK-J
+#EXTINF:-1,LaLigaSportsTV HD ( SOLO EVENTOS )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjaUgFH2PA84JsgRAvLFwRy
+#EXTINF:-1,|GB| SKY SPORTS NEWS FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg-dxFy-dC2o6kJgTL8b_bH
+#EXTINF:-1,|GB| SKY SPORTS F1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi2CZpyka_veJgq8JECKT9f
+#EXTINF:-1,|GB| SKY SPORTS F1 SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj7gK-y1I--GLpu63WproYw
+#EXTINF:-1,|GB| SKY SPORTS ACTION FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjO8NkClJ0CVYRCEl-EoEQb
+#EXTINF:-1,|GB| SKY SPORTS ACTION SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhjhMmZjnWoRRy3yQgow2FO
+#EXTINF:-1,|GB| SKY SPORTS ARENA FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhuNe4bbzZZbfc1y-VdjeAS
+#EXTINF:-1,|GB| SKY SPORTS ARENA  SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjlBYumsW0you2EWndzKUQ9
+#EXTINF:-1,|GB| SKY SPORTS CRICKET FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjlw_sx_95W31usirueKM29
+#EXTINF:-1,|GB| SKY SPORTS CRICKET SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjei7fOaBdJSsYBkS4FuiQY
+#EXTINF:-1,|GB| SKY SPORTS FOOTBALL FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjHq5CqojRUD3i1B1VqCvMh
+#EXTINF:-1,|GB| SKY SPORTS FOOTBALL SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiT024YRgrHBulHpSM1X0Dg
+#EXTINF:-1,|GB| SKY SPORTS GOLF FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhfMmhdhlcVUYcqJenliGyh
+#EXTINF:-1,|GB| SKY SPORTS GOLF SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgc7M50taUPaqj5hxujbd_G
+#EXTINF:-1,|GB| SKY SPORTS MAIN EVENT FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjKuWPE8iT9s-Y3hZ_8gYec
+#EXTINF:-1,|GB| SKY SPORTS MAIN EVENT SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgLV8PqsxgrVcrxFxBupB5h
+#EXTINF:-1,|GB| SKY SPORTS PREMIER LEAGUE FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjFAXYUCubbYohOQU_BUdnI
+#EXTINF:-1,|GB| SKY SPORTS PREMIER LEAGUE SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhRtK7BdeBqo2sYDpJU06Bx
+#EXTINF:-1,|GB| SKY SPORTS NFL FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGihxmWVxdxG4sg_Rwffzn5y
+#EXTINF:-1,|GB| SKY SPORTS MIX FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiwljJAXzYPbhLbp1xW27AA
+#EXTINF:-1,|GB| TNT SPORT 1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgbJrJriQe31yPs0ERkz5bn
+#EXTINF:-1,|GB| TNT SPORT 1 SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiBzZ0FxTUp3rhKqqg2UnXV
+#EXTINF:-1,|GB| TNT SPORT 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgNGGZxCNmmbmEqozemU-Bo
+#EXTINF:-1,|GB| TNT SPORT 2 SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGinIJwa3RlnaBEEv9dZG7wm
+#EXTINF:-1,|GB| TNT SPORT 3 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjc09R3TQJGPwVxesCtmUAw
+#EXTINF:-1,|GB| TNT SPORT 3 SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjVtxLvjI78CURukNSEcY2B
+#EXTINF:-1,|GB| TNT SPORT 4 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj2PW756KqTNzg7gfch-4Se
+#EXTINF:-1,|GB| TNT SPORT 5
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiUx1XWRZC22UU0oUrT-sza
+#EXTINF:-1,|GB| TNT SPORT 6
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgK5brIOTl3wP9jjUqF_DkA
+#EXTINF:-1,|GB| TNT SPORT 7
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgbwW83HoMrRwQecffMaF0V
+#EXTINF:-1,|GB| TNT SPORT 8
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhVmYQgEdYpgjTMwqHBhdiF
+#EXTINF:-1,|GB| EUROSPORT 1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjS6l8615SeO6tLHwYWF5eh
+#EXTINF:-1,|GB| EUROSPORT 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgD-F27u6YLkebRd9FPiV6T
+#EXTINF:-1,|GB| LALIGA TV FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGghcWe9J4iV6TTKALR6EbFY
+#EXTINF:-1,|GB| RACING UK FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjnaInR3F_pBRTHwZeONcaH
+#EXTINF:-1,|GB| RACING UK
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjHFXSWUyj1urM-HrRwvWek
+#EXTINF:-1,|GB| MUTV FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgFh-p9EeG6msrx_tN77JVV
+#EXTINF:-1,|GB| MUTV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGibFKdYDOebR2DymsfYdtSW
+#EXTINF:-1,|GB| LIVERPOOL FC FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgEzF-g5c1VpvexMZAUJOHi
+#EXTINF:-1,|GB| SKY SPORT RACING FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjY4kAFerXZoaPLdCgngJ9b
+#EXTINF:-1,|GB| PREMIER SPORTS 1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjatRVaprSSYP6NTxNB5fYU
+#EXTINF:-1,|GB| PREMIER SPORTS 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhmmKeUQKJbJwB7Ktc9M8_f
+#EXTINF:-1,|GB| TNT Sport 4 SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGikUrnhLznw0S5bIs_xpLbt
+#EXTINF:-1,|GB| TNT Sport 4 HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh3kze1GW5jy5kiLqJ-ih6E
+#EXTINF:-1,|GB| TNT Sport 4 FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgu8TdQ9I3m3SSr6MdPv8ho
+#EXTINF:-1,|GB| TNT Sport 3 SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhdPRsL5lDaqfx8r__SQHds
+#EXTINF:-1,|GB| TNT Sport 3 HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgNKJ5Vuh43SSjiLCK3YKcy
+#EXTINF:-1,|GB| TNT Sport 3 FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjmBnL6e9AssUOn5ENZCAJB
+#EXTINF:-1,|GB| TNT Sport 2 SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjDa6bDiWRR-Yqo3pTCC8oF
+#EXTINF:-1,|GB| TNT Sport 2 HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGikdD6ASQHkCFIb6RbxM7RF
+#EXTINF:-1,|GB| TNT Sport 2 FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiYW8w-XoJUukLsORiKbgrc
+#EXTINF:-1,|GB| TNT Sport 1 SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiJ85P6iq22rq_fLE8huqNM
+#EXTINF:-1,|GB| TNT Sport 1 HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgZauuAi6oGuPrAE2OIgYKx
+#EXTINF:-1,|GB| TNT Sport 1 FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj52_I9eB3GkleTCFvMhP0u
+#EXTINF:-1,|GB| Sky Sports Action HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjpcdrf13iaDtOW8rEKfG6a
+#EXTINF:-1,|GB| Sky Sports Arena FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiHzwupnijYCJRRMjzPPFec
+#EXTINF:-1,|GB| Sky Sports Arena HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi-yjWhi5XFC4pC-kzAErUL
+#EXTINF:-1,|GB| Sky Sports Arena SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGinTYUmZqMqr7lcPNUhtC7t
+#EXTINF:-1,|GB| Sky Sports News FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi917eIJWw-qxvVEf6BlfZ7
+#EXTINF:-1,|GB| Sky Sports News HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGijNesNJU2VDbs1G-fa8xHc
+#EXTINF:-1,|GB| Sky Sports News SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhbJLeW8fP9lBFuGeKYwXMz
+#EXTINF:-1,|GB| Sky Sports Main Event FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjpqucsxvsm3B9SHxAt-ZjP
+#EXTINF:-1,|GB| Sky Sports Main Event SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgoKIxIjYOQ4Bto0aHOp7l3
+#EXTINF:-1,|GB| Sky Sports Main Event HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjXQ2jxkomXGT8YV5Uvp0J6
+#EXTINF:-1,|GB| Sky Sports Football FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhlSf2YOvzv3T5J6evDdhO-
+#EXTINF:-1,|GB| Sky Sports Football HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiCVwVlFD4xVtNkDxeUF1ei
+#EXTINF:-1,|GB| Sky Sports Football SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjdp2OA3cPw-44AFbbQ4WSh
+#EXTINF:-1,|GB| Sky Sports Prem FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhP47h-HwcE47jucg3OpTWG
+#EXTINF:-1,|GB| Sky Sports Prem HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiTTmy_gfAhEptZt-z0B74Q
+#EXTINF:-1,|GB| Sky Sports Prem SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgengpprmkPKXQEx_6L-SHP
+#EXTINF:-1,|GB| Sky Sports Cricket FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgTK-CQlWL6bUYIR-IzdFDC
+#EXTINF:-1,|GB| Sky Sports Cricket HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGicvViTE2L0MVOFyxx-fBPo
+#EXTINF:-1,|GB| Sky Sports Cricket SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGirMHZkS4-NL4NLToLdUQv_
+#EXTINF:-1,|GB| Sky Sports Golf FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGicVO_JPlRJIY6YJJo0t2Pt
+#EXTINF:-1,|GB| Sky Sports Golf HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhcpsQZ3aMVpCdcHBI3R5aI
+#EXTINF:-1,|GB| Sky Sports Golf SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh61NT9SGOa3cjQGuyYwhQ5
+#EXTINF:-1,|GB| Sky Sports F1 FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi5CU0dZg2UGpkPWALf3t9W
+#EXTINF:-1,|GB| Sky Sports F1 HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgrrJd9E_wEwU6dVfgVQ5Oh
+#EXTINF:-1,|GB| Sky Sports F1 SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjidk4Sl4sQdtnL0qmAD4bj
+#EXTINF:-1,|GB| Sky Sports mix FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh_cgpsuFq3GZYh8DFW7WT8
+#EXTINF:-1,|GB| Sky Sports mix HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjvoFi1ZTjhSzZDtsa9_JRt
+#EXTINF:-1,|GB| Sky Sports mix SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgZHWsuqtsk20GlO9lAj5_W
+#EXTINF:-1,|GB| Sky Sports Racing FHD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi43KglOKiWyLXlaUaKoAcY
+#EXTINF:-1,|GB| Sky Sports Racing HD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhI6h_l0ni5UORCmIuyZv7j
+#EXTINF:-1,|GB| Sky Sports Racing SD (HEVC)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGir6IHccFZ2KdN8IpjLrgi8
+#EXTINF:-1,|GB| DAZN 1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj029_7Nphj0tenlkcKrIEd
+#EXTINF:-1,|GB| DAZN 1 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiQ2_zNRz4SOwCA0_VWW3wA
+#EXTINF:-1,|GB| DAZN 1 SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg2sTSXWIbH5kpy13JWUG9y
+#EXTINF:-1,|GB| DAZN EVENT 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgF68vZBPmYChEkZBzP4XdK
+#EXTINF:-1,|GB| DAZN EVENT 2
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg5kky9Xz-SlcowuEVOWjbx
+#EXTINF:-1,|GB| DAZN EVENT 3
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhsnLUZm-M82xNyZbTrrUin
+#EXTINF:-1,|GB| DAZN EVENT 4
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgmvCr3OHw4QmXF0QnDqUzY
+#EXTINF:-1,|GB| DAZN EVENT 5
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiTA01YqIlUoU7DSqQ0VREt
+#EXTINF:-1,|GB| DAZN EVENT 6
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGivakp1sf77bjLf_IV3V8PT
+#EXTINF:-1,|GB| DAZN EVENT 7
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj9TQwa7KlCxQSgcKQPMI11
+#EXTINF:-1,|GB| DAZN Red Bull TV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhFq0S4nKsoEc4wXyXj_OkB
+#EXTINF:-1,|GB| ViaPlay Sports 1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgoyovur0CHph_cEItSHgDf
+#EXTINF:-1,|GB| ViaPlay Sports 1 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh1hfe1FLyTxR50iyChOmVa
+#EXTINF:-1,|GB| ViaPlay Sports 1 SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgAuXP2BVK4x_D3us2-PFPG
+#EXTINF:-1,|GB| ViaPlay Sports 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhOtG6IyRMc5gMt5EvDM--x
+#EXTINF:-1,|GB| ViaPlay Sports 2 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjXJdH3_h63gIxWcqrsbGuU
+#EXTINF:-1,|GB| ViaPlay Sports 2 SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiSRjfRPmgEnV4Q5t4bzZtT
+#EXTINF:-1,|GB| Free Sports FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgS-nfK50FUm70-AIO5xpcj
+#EXTINF:-1,|GB Free Sports HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiI67BC5O9rJYu_gmf0BZIQ
+#EXTINF:-1,|GB| Free Sports SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhzrBN2gM8SMK40MUkcQEtg
+#EXTINF:-1,Sporty Stuff FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgXNZe1L4W5eGVOiDRZtkeY
+#EXTINF:-1,Sporty Stuff HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj6grZrO0KyVqotmd5p6-0e
+#EXTINF:-1,Sporty Stuff SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhte466lFsh9jVwjTLw_Vrn
+#EXTINF:-1,Europsort XTRA 1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh1kHR7mms4OEHL60K8Qx0_
+#EXTINF:-1,Europsort XTRA 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhbB0T_uOXSCVfIPtVB7UKJ
+#EXTINF:-1,Europsort XTRA 3 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgGbPngJRMm4l3_YVkmgnex
+#EXTINF:-1,Europsort XTRA 4 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjrRz-LLSbE2R7iZtW6MYsa
+#EXTINF:-1,Europsort XTRA 5 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjZpSNELk0rvYXtUVKGNOA2
+#EXTINF:-1,Europsort XTRA 6 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgrbxMFxMfJXd71uw_BTQlN
+#EXTINF:-1,Europsort XTRA 7 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGisUHEeR1qiZ_rZlj0AdF48
+#EXTINF:-1,Europsort XTRA 8 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgXTQo613BHarj49_IqaF8n
+#EXTINF:-1,Europsort XTRA 9 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGicHPpddI06-QekIETKu-j9
+#EXTINF:-1,Europsort XTRA 10 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgpbY-5rw6Ae6t8oJID9CYg
+#EXTINF:-1,F1 TV FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiTz4ShcBpqjOiedRjysIwV
+#EXTINF:-1,F1 MAG Magnussen Haas F1 Team
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhSiYM3cL7-gWetrqoW_EuG
+#EXTINF:-1,F1 VER Verstappen RedBull Racing
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiOBYw60h36Nn7L6NCXy3oX
+#EXTINF:-1,F1 TSU Tsunoda Alpha Tauri
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgL3JmI8-mQaNMNzgybsvRM
+#EXTINF:-1,F1 STR Stroll Aston Martin
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh_m0jNWndI7Ya6te1UJeuT
+#EXTINF:-1,F1 SAI Sainz Ferrari
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiwgrtKpVBMpy1B_iNjwSIM
+#EXTINF:-1,F1 RUS Russell Mercedes
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhnypZusXpYjiSADakT5yMd
+#EXTINF:-1,F1 RIC Piiastri McLaren
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjTUBIe_TAMgqcyR9VG7rEv
+#EXTINF:-1,F1 HUL Hulkenberg HAAS
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjVWhOWH-xrONR6kdDZqPff
+#EXTINF:-1,F1 PER Perez RedBull Racing
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiQUbQfgC_CcGl89qx9TJDe
+#EXTINF:-1,F1 OCO Ocon Alpine
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiUyF4zPL365wi57qiCT5ne
+#EXTINF:-1,F1 NOR Norris McLaren
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhSq5gW4nBkSyaFOn0Op0Yt
+#EXTINF:-1,F1 DEV De-Vries Williams
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiAuElmvanOPNnvlppOKeFy
+#EXTINF:-1,F1 ZHO Zhou Alfa Romeo
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi_pSUPskfNm59KcVTvasj6
+#EXTINF:-1,F1 LEC Leclerc Ferrari
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhEB4wUPs_tc_p-XdtGDQKh
+#EXTINF:-1,F1 SAR Sargeant Williams
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgjEN2cV9S3LGXVmHL2S08a
+#EXTINF:-1,F1 HAM Hamilton Mercedes
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi1yubDLw9Hj_7Oi8uuuAM5
+#EXTINF:-1,F1 ALB Albon Williams
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiQdsjkyGzKaPd49ahWyi3n
+#EXTINF:-1,F1 GAS Gasly Alpha Tauri
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjIXN1iz_3q6zmhcQ8ndWyl
+#EXTINF:-1,F1 BOT Bottas Alfa Romeo
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjR90HIiKwZx0I6Y8eFjHOS
+#EXTINF:-1,F1 ALO Alonso Alpine
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj3_VlkpJ2VP6YIXWOXD5gr
+#EXTINF:-1,F1 TRACKER
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgoPAeNV5yS_Bmu6ywvxcvd
+#EXTINF:-1,F1 PIT LANE
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh--gXSN_OAfJiOLcLALTAH
+#EXTINF:-1,F1 DATA
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh-98sRQ_rNOp1x9VVHnQJo
+#EXTINF:-1,|GB| SKY SHOWCASE FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhKxMXvkOqyf2OEwSo8w6Qw
+#EXTINF:-1,|GB| SKY 2 ( SKY REPLAY )
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjbGQ_aivUJIDVmU6m_aod1
+#EXTINF:-1,|GB| SKY ATLANTIC FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhjtP1fidumFxodWUVNhI-E
+#EXTINF:-1,|GB| SKY WITNESS FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgEH1g56-r60_0dUqj3rAUu
+#EXTINF:-1,|GB| SKY ARTS FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgsF191czqU8PrXxYuwGEJ-
+#EXTINF:-1,|GB| SYFY FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgVF0yMCNetm52rP7J9840G
+#EXTINF:-1,|GB| SYFY
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhpCk-RMxCnEOKR1acGYw1L
+#EXTINF:-1,|GB| ALIBI FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjsKa8NHkc9NMsmj9s84kqA
+#EXTINF:-1,|GB| COMEDY CENTRAL FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi0aUmghwN-Dbm3y2pNg0yS
+#EXTINF:-1,|GB| COMEDY CENTRAL
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgJ1fAIZU4Gki500t0ScKA2
+#EXTINF:-1,|GB| COMEDY CENTRAL  +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjx5yT7jsheiJYpPGitajMb
+#EXTINF:-1,|GB| DAVE FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGheQ8FSTktIQ-7OdGnn9E5z
+#EXTINF:-1,|GB| DAVE
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiRW0dQy-H1r7QYOE0wMhTx
+#EXTINF:-1,|GB| TG4 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGisCq21y1thPFxrNtY2Vn-E
+#EXTINF:-1,|GB| E4 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh9VTybqL13haxh566DGhtm
+#EXTINF:-1,|GB| E4
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjbnxBRGEq2Jy3E4L2lRSkK
+#EXTINF:-1,|GB| E4  +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjMF724Wm02GRJaD9Zsw3Ww
+#EXTINF:-1,|GB| MTV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiNR_HoVVjaZCqd5tc1hJ7w
+#EXTINF:-1,|GB| RTE 1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjyHg5dsPU4wYt1wj-PPwcr
+#EXTINF:-1,|GB| RTE 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjuOTytoEABUk82G6rPEhEP
+#EXTINF:-1,|GB| ITV 1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh6Y1WyR-lOIVNHid7wv6AS
+#EXTINF:-1,|GB| ITV 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiDcak4NXDMIkQIEkv9kWQ1
+#EXTINF:-1,|GB| ITV 3 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiWk5eXiPYIAz9QV3x4xv0T
+#EXTINF:-1,|GB| ITV 4 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj6Aro5DSJ2iUjuckeGDa27
+#EXTINF:-1,|GB| ITV BE
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjGvN5MD-wvc9dat2LE1wDw
+#EXTINF:-1,|GB| BBC NEWS FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiA6NGOTlCiJ4PSZTjTabBI
+#EXTINF:-1,|GB| BBC ONE SCOTLAND
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhsrbKnW42ChfEN1Nmy59_x
+#EXTINF:-1,|GB| BBC ONE SCOTLAND HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiOMU_nw_AeGteDnsv8VjJy
+#EXTINF:-1,|GB| BBC ONE WALES
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhrbq83u7Ugtma_7owmDtys
+#EXTINF:-1,|GB| BBC ONE WALES HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjLUlcZ42m-fc4BlykhN8PL
+#EXTINF:-1,|GB| BBC ONE FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjE9pEtMwf5apM767vCbtXG
+#EXTINF:-1,|GB| BBC 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgI_DkITYzh2Wjs7x7KvATA
+#EXTINF:-1,|GB| BBC FHD 3/CBBC
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiJvQAR0-nvwAnKRF9KuxAo
+#EXTINF:-1,|GB| BBC FHD Four / CBEEBIES
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh-PI63pt6azCm7CL1-PDhi
+#EXTINF:-1,|GB| CHANNEL4 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiHfjIJTaYrV9jrGg0vpPMe
+#EXTINF:-1,|GB| CHANNEL5
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjNS2Jf3wX_5IJEDHr1FLN5
+#EXTINF:-1,|GB| CHANNEL 5 +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhL-D9dkqDfao2m9T5egWJC
+#EXTINF:-1,|GB| 4SEVEN
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi7kXsLmZee9RmtIp84mZiz
+#EXTINF:-1,|GB| FILM 4 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhk-CuP5qXh1Gg2uDzVMxpE
+#EXTINF:-1,|GB| FILM 4
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjBVWzhlgPS8_VWSfcD7IWq
+#EXTINF:-1,|GB| FILM 4+1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhYRINW6zc0ixNZcDbxEq4M
+#EXTINF:-1,|GB| MORE 4 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjvL8PKD_yDXorw17Y7kOQF
+#EXTINF:-1,|GB| TLC FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiCS9rr4LF61yS4QMCZPTIC
+#EXTINF:-1,|GB| TLC
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGidu-ZvBTjBZnmNce4Qhi7w
+#EXTINF:-1,|GB| W FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgEVXLpUw3zPSvy3BUSZ1i7
+#EXTINF:-1,|GB| GOLD FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjwwGnOJsSv5M_KBcXgncA-
+#EXTINF:-1,|GB| FOOD NETWORK
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgXlOM104aNW89Qkzk5fV8J
+#EXTINF:-1,|GB| CBS DRAMA
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjWkR6gLNO9UXranJv-l30U
+#EXTINF:-1,|GB| CBS REALITY
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjGUQAxMSDQlAaxEF1YrVA-
+#EXTINF:-1,|GB| STV FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiUqNaZAH5mDrSCC41hfC3c
+#EXTINF:-1,|GB| S4C FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiBPrUQo1PLAM9uFymKiyZf
+#EXTINF:-1,|GB| S4C
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiwpLssHM_So03oG10-czAP
+#EXTINF:-1,|GB| GREAT! TV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjw-ZjUk_AiqTEGBj65SYIM
+#EXTINF:-1,|GB| TRUE MOVIES
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhDYe8bGr3e1Kbz1cUxutUw
+#EXTINF:-1,|GB| DRAMA
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgHLOjSrN7nf8lW3kbBOTY5
+#EXTINF:-1,|GB| PICK TV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg0xlJtU2DrdbHWcI3FJwi-
+#EXTINF:-1,|GB| QUEST FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjmZjFd4betz7taQutHLjXg
+#EXTINF:-1,|GB| 5 USA
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj3DDLRNWj2WylSo6_Fb-kg
+#EXTINF:-1,|GB| SPIKE
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh6vfxVc-JeMeKR_ZT7gjD5
+#EXTINF:-1,|GB| AMC
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGif3Y_NI0dYGJ8wsWurWya3
+#EXTINF:-1,|GB| REALLY
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj-8eHTFhKieqKEz6qejA5m
+#EXTINF:-1,|GB| TRUTV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhwFKqDjBEiGD6XSoj2mo2-
+#EXTINF:-1,|GB| UTV FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjBaT1lu9zXe2r2kDPYpU3z
+#EXTINF:-1,|GB| SKY CINEMA ACTION SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhCGrs5tCOglekUJLCt5BwG
+#EXTINF:-1,|GB| SKY CINEMA Premiere FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj6GqtaNGK4SFENCDC-zIf2
+#EXTINF:-1,|GB| SKY CINEMA COMEDY SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGioCKr7BFP9CknSEF65cTdm
+#EXTINF:-1,|GB| SKY CINEMA THRILLER FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjoc4JcnRkBXsslYgIfapVM
+#EXTINF:-1,|GB| SKY CINEMA CRIME & THRILLER SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGitrTTHTZIMoNhZJmvrBAwi
+#EXTINF:-1,|GB| SKY CINEMA DRAMA FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg_Txs10fYpaqibXm0hRyG4
+#EXTINF:-1,|GB| SKY CINEMA DRAMA SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgS6rc34WeYfqDMuKZ6_kga
+#EXTINF:-1,|GB| SKY CINEMA FAMILY FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh-cVPPmqrTtVZmzyr8Stq4
+#EXTINF:-1,|GB| SKY CINEMA GREATS SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjW3h76FTXPoX4ojZhi_i5z
+#EXTINF:-1,|GB| SKY CINEMA HITS FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjPM9yAOd-2E88Y9R8DoFSN
+#EXTINF:-1,|GB| SKY CINEMA HITS SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGii8AY7e0N6ONKvZ6eB1AG7
+#EXTINF:-1,|GB| SKY CINEMA SCIFI&HORROR FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg2l6O-cl-T_Hi9iUH2IXOV
+#EXTINF:-1,|GB| SKY CINEMA SCIFI & HORROR SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj7YEyoC1QenzK8qWzKR4Wm
+#EXTINF:-1,|GB| SKY CINEMA ANIMATION FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhsSSs2GqR7Y7Nluhg2KBPs
+#EXTINF:-1,|GB| SKY CINEMA ANIMATION SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgGXPOdxLX9CcKVbgp0zJwx
+#EXTINF:-1,|GB| TCM MOVIE
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhbF-1MHJNjys6Bn2k91_Oq
+#EXTINF:-1,|GB| MOVIES24
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjRiPnMDQ0aehoiQTbUFLk0
+#EXTINF:-1,|GB| HORROR CHANNEL
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiA0yv_UD41EK4ADkmFzuEm
+#EXTINF:-1,|GB| DISCOVERY FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjqmwXlVPKYPrUIAAz6N0dT
+#EXTINF:-1,|GB| DISCOVERY
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi8ea8oyrxXSSZeCl_F_aVO
+#EXTINF:-1,|GB| DISCOVERY HISTORY
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgl5n81zGgwEnhktbLn_Skf
+#EXTINF:-1,|GB| DISCOVERY SCIENCE
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjTbaJ4jqusc5cCWXrGDMLh
+#EXTINF:-1,|GB| ANIMAL PLANET
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj4NIdB42Wbly5wuH41iZLc
+#EXTINF:-1,|GB| NAT GEO FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiYWY0JUMr6aH05UM9wikoW
+#EXTINF:-1,|GB| NATIONAL GEOGRAPHIC
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgjoSzMfbkETUA8hZJSLJvD
+#EXTINF:-1,|GB| NAT GEO WILD FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhwMNntbXSDS5ojtWOYXEEI
+#EXTINF:-1,|GB| NATIONAL GEOGRAPHY WILD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjPthAgVqxQpOc5yxM5vBS-
+#EXTINF:-1,|GB| CRIME & INVESTIGATION FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgHbnlQvQb-oWPAuptHLdpZ
+#EXTINF:-1,|GB| HISTORY FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhLmtCPdFVIGllfIPMoA_Fy
+#EXTINF:-1,|GB| HISTORY 2
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgqAQnjjTs8KejUQBKU58_C
+#EXTINF:-1,|GB| HISTORY 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgwv3qXjSguF7r_K1heny0c
+#EXTINF:-1,|GB| EDEN FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhshKOCh3eE6IRDO3uA3OCB
+#EXTINF:-1,|GB| CARTONITO
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiOm3Rc8CAmXjwBqHvwHH1I
+#EXTINF:-1,|GB| CARTOON NETWORK FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjb0avIgejRxbaqC8VqgNQx
+#EXTINF:-1,|GB| CARTOON NETWORK
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjcya5A0F8IwSwd_JfAu85B
+#EXTINF:-1,|GB| DISNEY CHANNEL FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj2m272irDppKdxipiFykae
+#EXTINF:-1,|GB| DISNEY CHANNEL
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhc7Oefghq3OMzgzCYyK8pd
+#EXTINF:-1,|GB| DISNEY XD FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhNIZdtz5djPhR30PfyC1oO
+#EXTINF:-1,|GB| DISNEY XD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiShTpQHm_ITT_EUlXGMEaT
+#EXTINF:-1,|GB| NICKELODEON FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi_kKMk2ckxgocMRI48NFrm
+#EXTINF:-1,|GB| NICKELODEON
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh19sqzVWKbvX4DbFcuPgNL
+#EXTINF:-1,|GB| NICKTOONS
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg9UJttHI-kgbsop0vRQhw6
+#EXTINF:-1,|GB| NICKJR TOO
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgY2MuKb8vyNA7y6t4Rs4rG
+#EXTINF:-1,|GB| NICK JR
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh_7Kajg8I5twNClcyOmuLO
+#EXTINF:-1,|GB| BOOMERANG
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGheaiv4ovMq0FQcyCHDPegl
+#EXTINF:-1,|GB| BABY TV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgNfD1UiOauh0nARgRxBJCi
+#EXTINF:-1,|GB| RTE JUNIOR
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg07oXWqwhwdtKyfSze0gSH
+#EXTINF:-1,|GB| TINY POP
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg85yQjCertXB8PDbB0fZ2E
+#EXTINF:-1,|GB| 4MUSIC
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjchnBuiWmRGu8-RCt4pVER
+#EXTINF:-1,|GB| VIRGIN MEDIA ONE
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGitv4pz5Oa2QgGff5VdYaTJ
+#EXTINF:-1,|GB| CAPITAL TV HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiXxcJ2qjHW6wK7qWpg-UBs
+#EXTINF:-1,|GB| CAPITAL TV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhPcSUK15EpOINhafbVcOxn
+#EXTINF:-1,|GB| VH1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjpQurB0rdONOWRn9tlowoP
+#EXTINF:-1,|GB| MTV CLASSIC
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjjYeFiA_KqPAjgSgh2JLUr
+#EXTINF:-1,|GB| MTV CLUB
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjJO3HPfV9a1VKMQKnvFZsh
+#EXTINF:-1,|GB| MTV HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj3Gq4tn_7d5pe61RNIC_4_
+#EXTINF:-1,|GB| CNN HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGglL3u1bUXKvdK-n9Pyz2Lv
+#EXTINF:-1,|GB| SKY NEWS
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiebNTzq5QMyvBfJksN2mtW
+#EXTINF:-1,|GB| RTE NEWS
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgekCEKPqMc2HnufUD1zbtW
+#EXTINF:-1,|GB| BBC WORLD NEWS
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgg5loBahB2hA3gS7tYrPpQ
+#EXTINF:-1,|GB| BLOOMBERG HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhnI2PljOpQ2ajVAOHBmT9O
+#EXTINF:-1,|GB| BLOOMBERG
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhUNjxtgeHwc3mtY9tgnI8C
+#EXTINF:-1,|GB| FRANCE 24 ENGLISH
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhEU6atmZYxAI8tM8LIJyVU
+#EXTINF:-1,|GB| AL JAZEERA NEWS ENGLISH
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGigoPND3_MSgnDugXc6x690
+#EXTINF:-1,|GB| ITV +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjqlIxaYEHyaDRLBXM-q4Q1
+#EXTINF:-1,|GB| ITV2 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjK4xNoEf_4-6jEIjjYUC_4
+#EXTINF:-1,|GB| ITV3 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjJnibQMvB0HVMl0zDRPopi
+#EXTINF:-1,|GB| ITV4 +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjS8wjfVCyEJAZ3n9jRZCRG
+#EXTINF:-1,|GB| ITV TV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjvI_jbFFMgUti3x2CRDBoC
+#EXTINF:-1,|GB| ITV WALES
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjc-_dF9Ow_iIhMZAhu_x2v
+#EXTINF:-1,|GB| ITV 1 CENTRAL WEST
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgPjNDewbXy3oaMvtV3DDKd
+#EXTINF:-1,|GB| ITV 1 CENTRAL WEST +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj9q7CwaRkKqGEZAv4bjP-5
+#EXTINF:-1,|GB| ITV 1 GRANADA
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiuf3IN8gQ4-LfvG7JL6vSS
+#EXTINF:-1,|GB| ITV 1 GRANADA +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhGNy91lq3cA6KxKNymbJdC
+#EXTINF:-1,|GB| ITV 1 LONDON +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi6M1bP25BYCbxskb1o2UBC
+#EXTINF:-1,|GB| ITV 1 MERIDIAN TV NORTH
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjA_L-tKgFGQEI1yUQZiu5D
+#EXTINF:-1,|GB| ITV 1 MERIDIAN TV SOUTH
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGisb33cHlMraRXt9dzORCfu
+#EXTINF:-1,|GB| ITV 1 WALES
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgYSZoRTxp3hriTZ-YEXk-W
+#EXTINF:-1,|GB| ITV 1 YORKSHIRE TV EAST 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgpErO6b79qh_ai5ft1n-yG
+#EXTINF:-1,|GB| CHANNEL 4 MIDLANDS
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiihoM_aiXe2JpuxPH8mwWF
+#EXTINF:-1,|GB| CHANNEL 4 NORTH
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhXWTP6xupnNDabBr-jgPE4
+#EXTINF:-1,|GB| CHANNEL 4 NORTH 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgcX0Rp8E57xFr9GD6GD6CD
+#EXTINF:-1,|GB| CHANNEL 4 NORTHEN IRELAND
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhmA8p7W42qs1zdBTzneBHy
+#EXTINF:-1,|GB| CHANNEL 4 SCOTLAND
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjyu_EFzMgc0oXU5VcZvlk7
+#EXTINF:-1,|GB| CHANNEL 4 SCOTLANND +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhu5fZ9EeY4UUKsFu7eWTeh
+#EXTINF:-1,|GB| CHANNEL 4 SOUTH AND EAST
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjhWANHoo7TAbkl3v2ceLXO
+#EXTINF:-1,|GB| CHANNEL 4 SOUTH AND EAST +1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhQkgGQsNJQ4U-k__qZn22H
+#EXTINF:-1,|GB| BBC SCOTLAND
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgiAGE58K-Lr4Rf8YPZ3qTb
+#EXTINF:-1,|GB| BBC ONE CAMBRIDGE
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjwnPyOArckRtq90KT1s_7h
+#EXTINF:-1,|GB| BBC ONE CHANNEL ISLANDS
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgn7RRbWkuGeWunJLwkG1wQ
+#EXTINF:-1,|GB| BBC ONE EAST MIDLANDS
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiESZ00xW1zPWrZtZqyVtk2
+#EXTINF:-1,|GB| BBC ONE LONDON
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgNIjZ1AK3MV3fNR6fUXKOC
+#EXTINF:-1,|GB| BBC ONE NORTH WEST
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiHfhGU-GJf71zWxyfJmeYc
+#EXTINF:-1,|GB| BBC ONE OXFORD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjNI0mjPSYxrrKAeikeqQit
+#EXTINF:-1,|GB| BBC ONE SOUTH
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjDhljk3XYUx24QCF414NWs
+#EXTINF:-1,|GB| BBC ONE SOUTH EAST
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhQupRc7Gqw-XoDTiJR4qo8
+#EXTINF:-1,|GB| BBC ONE SOUTH WEST
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgi1V_BKaRuSwZ9mB8aoicg
+#EXTINF:-1,|GB| BBC ONE WEST
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhBhstv1hJEI4okwnkXJrnS
+#EXTINF:-1,|GB| BBC ONE WEST MIDLANDS
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhw9I5OhRWvhTO58IG9dPa7
+#EXTINF:-1,|GB| BBC PARLIAMENT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiCWlYHsRUoudIWq6Y38itw
+#EXTINF:-1,|GB| BBC TWO SCOTLAND
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh5WeE8GOWcUuPFx_pLjRyy
+#EXTINF:-1,|GB| BBC TWO WALES
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGieoTWccJnVB9FCUhw_NBG8
+#EXTINF:-1,|GB| BET
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhFkv6nhETDtp7mS7XWf5Ky
+#EXTINF:-1,|GB| SIS One
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgC8-rfkjiLRnT58jUqnYvv
+#EXTINF:-1,|GB| SIS Two
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjfvOrKHkuexJ2-cZG3K2RX
+#EXTINF:-1,|GB| SIS Racing
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg0QXVHpRgTHI5ob5THAj9_
+#EXTINF:-1,|GB| Ladbrokes TV 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGickCz_ZhpM_IgihgjL0LDb
+#EXTINF:-1,|GB| Ladbrokes TV 2
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgBkSdC6kcykwpN82fiaaGo
+#EXTINF:-1,|GB| Ladbrokes TV 3
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgtDbOLxwJyvpwurTnvTKfm
+#EXTINF:-1,|GB| Coral TV 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjq6sLzYhOlYJLDUNmyga10
+#EXTINF:-1,|GB| Coral TV 2
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgCYGsXdrfem-2Qof1QRR-e
+#EXTINF:-1,|GB| Paddy Power TV 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj9_TUxAnUeUJ9crFFIqxp_
+#EXTINF:-1,|GB| Paddy Power TV 2
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjv6mIFX88J3ozWxmSdFkJ4
+#EXTINF:-1,|GB| Paddy Power TV 3
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiEx-5BO1eehQEcW97iQ6Kg
+#EXTINF:-1,|GB| William Hill BTV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhfzK3FLgwGXP7UtzDNnhFt
+#EXTINF:-1,|GB| William Hill BTV 2
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi1jhKPp83wA_mBui0ZR2tT
+#EXTINF:-1,|GB| William Hill TV 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi3YyIMZh-o2zM4oiowd4KI
+#EXTINF:-1,|GB| William Hill TV 2
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGglYZV4cB3F_oNVx3pnL7a-
+#EXTINF:-1,UFC Events 09:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg7E4Lp53sCFLBiuOQduJR-
+#EXTINF:-1,UFC Events 08:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgzr7EMJW8QWaUxaO4fc3ox
+#EXTINF:-1,UFC Events 07:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjP2R0zCb9XqIyKPxRPn7y7
+#EXTINF:-1,UFC Events 06:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj0qaG-xeA4b16xSzSFCfho
+#EXTINF:-1,UFC Events 05:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhvZoCzC3B4W0flCRAfisw4
+#EXTINF:-1,UFC Events 04:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg-tyRwEXbbHSvhKPClmOe4
+#EXTINF:-1,UFC Events 03:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh63mPA8KSAqC3ttI38ce1b
+#EXTINF:-1,UFC Events 02:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj2QzK1CQElRCljO-7MLuzK
+#EXTINF:-1,UFC Events 01:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhYQiRnFRT5bWDGxRQFcULE
+#EXTINF:-1,UFC Events 00:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjE2w8xghqU7RxbTK9_GhUf
+#EXTINF:-1,FITE 07:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhgEYHgxp_9e8Hoor6QaDr0
+#EXTINF:-1,FITE 06:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiXa0X_PPRKmWpSn_kDaB6g
+#EXTINF:-1,FITE 05:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgVpAs1IIhdQ5SMX3qrXrqC
+#EXTINF:-1,FITE 04:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgrrZPClMjfalJQhlPHSKHc
+#EXTINF:-1,FITE 03:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgUhQMSrOYJldJ21dy89Ajn
+#EXTINF:-1,FITE 02:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiiDiVdC3LsXf-EXLovcs8D
+#EXTINF:-1,FITE 01:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiwGDd7iSr8eCJJUrSV4-XG
+#EXTINF:-1,Fite TV 24/7
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgrLJjD5Ht30aeZ_tyFPsAH
+#EXTINF:-1,PPV Events 19: UFC Grasso vs. Shevchenko 2 1AM SAT/SUN
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhV77heXrKBkAPeY6bVHBaM
+#EXTINF:-1,PPV Events 18: UFC Grasso vs. Shevchenko 2 1AM SAT/SUN
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgRcbpETgVlYHgdQ72spThd
+#EXTINF:-1,PPV Events 17: UFC Grasso vs. Shevchenko 2 Prelims and Main 12AM SAT/SUN
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgq9VxpJHTzuebyg8IQy8l9
+#EXTINF:-1,PPV Events 16: Samourai MMA 8: Tommy Morrisson vs Matt Dawson 12AM SAT/SUN
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiMq2PN8GqZfnf_Wl-zTGqE
+#EXTINF:-1,PPV Events 15: AIW: Fresh Meat 3 8PM  SAT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg7hu8vHYkT6CgeGHFrho8h
+#EXTINF:-1,PPV Events 14: GCW in Liverpool 2023 7PM SAT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgM0dpZHFQWHIwqRQIkOTEL
+#EXTINF:-1,PPV Events 13: Senshi 18 5PM SAT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiPVoeEftFb2uvFj95AH6nW
+#EXTINF:-1,PPV Events 12: Ortiz v Moran / Llopez v Gonzalez 1AM FRI/SAT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjrJn5qQQr0koynaVVWa3_j
+#EXTINF:-1,PPV Events 11: Tuffnuff 133 4AM FRI/SAT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhmto9yA9zSuUooGCMwjxik
+#EXTINF:-1,PPV Events 10: Cage fury fc 125 2AM FRI/SAT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjREnvjIR1LrApWEWIK00iH
+#EXTINF:-1,PPV Events 09: Combat FC 5: Jake Philla vs John Douma 2AM FRI/SAT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg2VXG3HccvMtJZPy7PD_XM
+#EXTINF:-1,PPV Events 08: AIW: JT Lightning Invitational Tournament Night 1 12:30AM FRI/SAT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjKgZIBy-ywQlhmZLegh0qb
+#EXTINF:-1,PPV Events 07: River City Promotions: Ritz & Rumble 12AM FRI/SAT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiUPh46qV1Iry--1A2-QcfY
+#EXTINF:-1,PPV Events 06: TNT Extreme Wrestling: Project X 2023 7PM FRI
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhB0iN2Sxti3TxTPWBaqKxk
+#EXTINF:-1,PPV Events 05: ICW: Fight Club, Episode 283 7PM FRI
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhkeWnbvUghnzBxo0DoMNph
+#EXTINF:-1,PPV Events 14: Sling PPV5 (ES)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj97w9dlQX1mCa24RH-it1h
+#EXTINF:-1,PPV Events 13: Sling PPV5 (EN)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgYEs-0-lidDP7UE3JECZCM
+#EXTINF:-1,PPV Events 12: Sling PPV4 (ES)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhQVL9o7Dz5B_Jwe43vayIe
+#EXTINF:-1,PPV Events 11: Sling PPV4 (EN)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi49_IXGjPuXkkMKpsSi8WA
+#EXTINF:-1,PPV Events 10: Sling PPV3 (ES)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj86qo5zfjdGF75eqyECVu0
+#EXTINF:-1,PPV Events 09: Sling PPV3 (EN)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjNTE6Wz1gt4_K-JKJrK0gW
+#EXTINF:-1,PPV Events 08: Sling PPV2 (ES)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjgC0MM-IpbyNe-8kJuV5MY
+#EXTINF:-1,PPV Events 07: Sling PPV2 (EN)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGguFJpryf3WDcUel8s7jpY0
+#EXTINF:-1,PPV Events 06: Sling PPV1 (ES)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjaP2VlWQQzLPi8C5K55BYI
+#EXTINF:-1,PPV Events 05: Sling PPV1 (EN)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh_DoXZXGkuOaLCUbyAMcGq
+#EXTINF:-1,PPV Events 04: IMPACT! Wrestling
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjHrislanr-9Yp2-0qeB8l2
+#EXTINF:-1,PPV Events 03: BILLIARDTV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhebNsCYUpDdR8z_wNA1qhu
+#EXTINF:-1,PPV Events 02: hard knocks
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjcEjTz-2rd9c3RIE8nw6qm
+#EXTINF:-1,PPV Events 01: Bellator MMA TV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgukg6EG_5dm6TeKiAf3R1W
+#EXTINF:-1,CELTIC TV ( EVENT ONLY)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgxurGJdGtwwsJmmz5TGi33
+#EXTINF:-1,RANGERS TV ( EVENT ONLY)
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhirL9JHe5uYdEkt0l-c-DQ
+#EXTINF:-1,SKY SPORTS BOX OFFICE SD HEVC
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiS4Zx6Wvc0hux9S-Nto9de
+#EXTINF:-1,SKY SPORTS BOX OFFICE HD HEVC
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj5HbirVO-Gepy59RpRPGJA
+#EXTINF:-1,SKY SPORTS BOX OFFICE FHD HEVC
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhMe-w6CaN-zTQRySFC2p6L
+#EXTINF:-1,SKY SPORTS BOX OFFICE / BT SPORTS BOX OFFICE FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhS44Dyl4dlD0m7whbGQqyS
+#EXTINF:-1,SKY SPORTS BOX OFFICE / BT SPORTS BOX OFFICE HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh-uZzUv0TUrhWqnthPIncI
+#EXTINF:-1,SKY SPORTS BOX OFFICE / BT SPORTS BOX OFFICE SD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjfc0CEQ1zHR_WjaV9VO8LK
+#EXTINF:-1,EPL 01: 15:00	Crystal Palace vs Fulham
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiJ52qj0Nz-79WY9Lx7UXXW
+#EXTINF:-1,EPL 02: 15:00	Luton Town vs Wolverhampton Wanderers
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiiOD5Gld98BayPMBz8m8GT
+#EXTINF:-1,EPL 03: 15:00	Manchester City vs Nottingham Forest
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgbb-GMkP_SX4TBagUYqh4a
+#EXTINF:-1,EPL 04: 17:30	Brentford vs Everton
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj7srQprvj1zccM63FsSDM8
+#EXTINF:-1,EPL 05: 20:00	Burnley vs Manchester United
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGicXsYDvIPzACwjgYmODTAW
+#EXTINF:-1,EPL 06: 4K Channel
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiOOTucwtGeOpgVDHPiuxE_
+#EXTINF:-1,EPL 07:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj6oKO5MtiMbodsrGtn7Z2f
+#EXTINF:-1,EPL 08:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjsq4_TQxiAGS9NdYKmbh17
+#EXTINF:-1,EPL 09:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhgMVDcDgBefxPKxb4Y3GOm
+#EXTINF:-1,EPL 10:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGimpePRy1_Km3jIab4-ZL05
+#EXTINF:-1,EPL 11:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi_Mv4hH_QdNDFk85WSBvQs
+#EXTINF:-1,EPL 12:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGii_P54BcfbUgqsAc1B-9P5
+#EXTINF:-1,EPL 13:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgITSz9VraDOO03VsPce27h
+#EXTINF:-1,EPL 14:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj950R_vaYISAhIbZtrnk9n
+#EXTINF:-1,EPL 15:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjyPpwKD2dK8jZoqZyx3gHr
+#EXTINF:-1,EPL 16:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh_ZitTKuJXWPAFY2uyWRB6
+#EXTINF:-1,EPL 17:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhdleBupbTLi-VNr5bUW8zc
+#EXTINF:-1,EPL 18:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhDix6S-Zmhkefe23xpSnuG
+#EXTINF:-1,EPL 19:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhH5CdqdnC6O-0zqzKCJGcd
+#EXTINF:-1,EPL 20:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgGAx9NfjHXHQCQ7Hnmvvn0
+#EXTINF:-1,EVENTS 01: Santino Bros. Wrestling: Return of the King 10PM GMT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhD_QBj5jHWY03xbfabT_13
+#EXTINF:-1,EVENTS 02: Long. Live. GCW 2023 11PM GMT
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj7kw4nxws_i-LmwnvWtCne
+#EXTINF:-1,EVENTS 03: BKFC 50 Denver: Prelims 1AM GMT 23/09
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjDHLTvXBNbFORKy8q-Qq8g
+#EXTINF:-1,EVENTS 04: BKFC 50 Denver: Lorenzo Hunt vs Chris Camozzi 2AM GMT 23/09
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgMMhOB4k3kEgAe-YesyHx4
+#EXTINF:-1,EVENTS 05: Fusion Fight League: Conall Powers vs Chris Sherley-Rios 2AM GMT 23/09
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi_DBSweVn-rzN0AYzN3EEC
+#EXTINF:-1,EVENTS 06: LFA 168 2AM GMT 23/09
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjGIaoXPZGFUoW4wDlCorPi
+#EXTINF:-1,EVENTS 07: Hoodslam: Lonely are the Hunted 5AM GMT 23/09
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh2kXrnxzwWV4g0HZNGDoj-
+#EXTINF:-1,EVENTS 08:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjZx_gUcyZEFmqEqNaZtndm
+#EXTINF:-1,EVENTS 09:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiBsolNUbQmfspQAGC_IO90
+#EXTINF:-1,EVENTS 10:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjm--ZhuKKkz2C9DKgUaggf
+#EXTINF:-1,EVENTS11:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiyixWIK-2mRnk0-mgEz0Gw
+#EXTINF:-1,EVENTS 12:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh6CZHaL5_oO0ejt5U2p8dP
+#EXTINF:-1,EVENTS 13:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjIg-t_z28abOso_X7m3JJe
+#EXTINF:-1,EVENTS 14:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjcQ2zPTvSE81pnfOnfR9og
+#EXTINF:-1,EVENTS 15:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhCWCEP3Q0ruI8xYevqpypQ
+#EXTINF:-1,EVENTS 16:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg50U7ZEL6SvGx73sfHNTjR
+#EXTINF:-1,EVENTS 17:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiJtTV5wIzWLss7JLTluo4D
+#EXTINF:-1,EVENTS 18:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh-spXxUjBVn1dd_CC_x88B
+#EXTINF:-1,EVENTS 19:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhKLT8tD_SfXCOH18ewUHp5
+#EXTINF:-1,EVENTS 20:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgIg01zSMlxBDcEwMoBXhia
+#EXTINF:-1,EVENTS 21:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh8b1GKdTv5qmUWbx2f0njg
+#EXTINF:-1,EVENTS 22:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhoRX8ob8fYcfNHTZHBtn8M
+#EXTINF:-1,EVENTS 23:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGis-rVncgkZibPYNEkMJyWw
+#EXTINF:-1,EVENTS 24:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGib9ZWklyCOKP4wb_8dULAR
+#EXTINF:-1,EVENTS 25:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiVeRq-UnLyXeGtun6C8HzP
+#EXTINF:-1,EVENTS 26:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh72oclhXDOZyKtm-sEkdZq
+#EXTINF:-1,EVENTS 27:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiIRCeLdqS3QjuUCk3EcTbs
+#EXTINF:-1,EVENTS 28:
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhpbCEPteCwRpSj-1oMRax_
+#EXTINF:-1,Peacock: The Rotten Tomatoes Channel
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGirLs_ocdqrC6RfT-bBUeTM
+#EXTINF:-1,Peacock: This Old House
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjiHHIvJzu4NUmybDSjcIIN
+#EXTINF:-1,Peacock: The Bob Ross Channel
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgE0JwoVaRh45cvtXksf2lQ
+#EXTINF:-1,Peacock: AFV
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhNWXKuJJ6EFsG0sqkngIxm
+#EXTINF:-1,Peacock: LOL
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhV8aNTIOThoMjV5QMiHgIn
+#EXTINF:-1,Peacock: LX
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgXzLqsRuzKSlCI_xi2g8Ng
+#EXTINF:-1,Peacock: Circle
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgtrBcSkLwzG5eqMvyEYAVM
+#EXTINF:-1,Peacock: Loop Latin
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgGbekF5atOJ9ROXSGQf0oY
+#EXTINF:-1,Peacock: Loop Classic Music Videos
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGixy4QPLw2r9q9xov6MP7Px
+#EXTINF:-1,Peacock: Loop Country
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg5S7H3hLhYzHyNsZkg5ukj
+#EXTINF:-1,Peacock: LOOP Hit Music Videos
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh4OuALj2okKV4UPBZ9u0WA
+#EXTINF:-1,Peacock: Telemundo Al Dia
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGihq81zL_n0azZS545J2q1M
+#EXTINF:-1,Peacock: Fallon Tonight
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGigkmP90qBFc-jGix_GRRa5
+#EXTINF:-1,Peacock: SNL Vault
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjMvUrG7yh3NbrciSamwi2A
+#EXTINF:-1,Peacock: WWE Network
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjcOzyAAN8_gdCXs0ooprA1
+#EXTINF:-1,Peacock: GolfPass
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh82TO0amFWUxWT6tjx4rG7
+#EXTINF:-1,Peacock: NFL Channel
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh6gMnAnP4B-Pk7xdIAzIMR
+#EXTINF:-1,Peacock: NBC South Florida News
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi7QR9d4XuscbZQSeMxVF6t
+#EXTINF:-1,Peacock: NBC Philadelphia News
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjRyS6F9w0cGgAvTZDCsHUu
+#EXTINF:-1,Peacock: NBC Boston News
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiRE5gGFbnuxJyTpGLszX4C
+#EXTINF:-1,Peacock: NBC Chicago News
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhap1yyzkzM9ex_CbuuBeON
+#EXTINF:-1,Peacock: NBC Los Angeles News
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi4MRxbyCg_5GTEPgEkQxpG
+#EXTINF:-1,Peacock: NBC New York News
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgD8J_cW-WMVj_QLrOvSiy7
+#EXTINF:-1,Peacock: Sky News
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiOv1HkiGy7bFRORtTADg0i
+#EXTINF:-1,Peacock: TODAY All Day
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGii2FBQqWnGpbNbad3R8x0d
+#EXTINF:-1,Peacock: Dateline
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhMlW7i7spxAVMZEUIYgmyJ
+#EXTINF:-1,Peacock: NBC Sports on Peacock
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgnhkAHZsOYc5Y082icyGKW
+#EXTINF:-1,Peacock: NBC NEWS NOW
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjO_ZOSMMmxaDXhsOValpo6
+#EXTINF:-1,Peacock PremierLeague
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhWOhcxvyC8hHtd-kR-SMn8
+#EXTINF:-1,Peacock NBCSports
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhzJoW51SOaTW3LLRLGt3mm
+#EXTINF:-1,Peacock 50
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgh9TVEQWhcMkX_Ia6IvRS_
+#EXTINF:-1,Peacock 49
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj6UmeNWIhTHqBj8CrJOqtp
+#EXTINF:-1,Peacock 48
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjvNEuWgzeUJI9YpwW-R8t_
+#EXTINF:-1,Peacock 47
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi2T2UFptiYZq_qIubH4jl3
+#EXTINF:-1,Peacock 46
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj4fcQkYTdm5vIYAcmP2SiS
+#EXTINF:-1,Peacock 45
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgtkGd7RRMGAeragJDCerv_
+#EXTINF:-1,Peacock 44
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgwsrNQbMNha1ehT9D2joha
+#EXTINF:-1,Peacock 43
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhJcunWac-DNQNu1wMl40Dw
+#EXTINF:-1,Peacock 42
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGheQaP1jAZlRHp3NNnCqtL0
+#EXTINF:-1,Peacock 41
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjI-xLEZb66U99wWSlQNJS3
+#EXTINF:-1,Peacock 40
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjmDAASKFJTZUYB7Y2is9gE
+#EXTINF:-1,Peacock 39
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj0xFX64_jPPnMM9NQ17Rxb
+#EXTINF:-1,Peacock 38
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhVbXgxjk3afEmNv0KEMlMx
+#EXTINF:-1,Peacock 37
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh7fAnGPaYBMTezAMo-kLFk
+#EXTINF:-1,Peacock 36
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjIMxSlnJJLpcv62tgBJc3m
+#EXTINF:-1,Peacock 35
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGj-qDTJcta-nTB6XNIGWBm1
+#EXTINF:-1,Peacock 34
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGioJanPJUm369Zzcx3SBY3Z
+#EXTINF:-1,Peacock 33
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiy0kDHgVjAaGkTZ0xhqt1M
+#EXTINF:-1,Peacock 32
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiygTwsh7kLmyhlL6ko4rC3
+#EXTINF:-1,Peacock 31
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi7c2DZ3pV439CdoiX300Or
+#EXTINF:-1,Peacock 30
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg7M2WabE8CIj73BlEhEFOJ
+#EXTINF:-1,Peacock 29
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgfH0QOMqJZvvfsEd37x2Lw
+#EXTINF:-1,Peacock 28
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgrEHzxVmnou4So6thTMHaJ
+#EXTINF:-1,Peacock 27
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhW5iAgmnT5n-wTlukmaVFQ
+#EXTINF:-1,Peacock 26
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh_RbniGFcy7pCdWbZimn5I
+#EXTINF:-1,Peacock 25
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiLENJjG99UK5eA6xKUNHa5
+#EXTINF:-1,Peacock 24
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiOGA3_Axz_Tu3Qf80HCGGO
+#EXTINF:-1,Peacock 23
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGizm9WVepIw2N4rFZbBe-6-
+#EXTINF:-1,Peacock 22
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjEAOncDHzuJbpcyflcZsiO
+#EXTINF:-1,Peacock 21
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgQmrNib5x5-EaisQdUN1Np
+#EXTINF:-1,Peacock 20
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiRUI6u8UEJeMBiCTLuRKCb
+#EXTINF:-1,Peacock 19
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiAgY6MPFbed_O4HBdd6cYf
+#EXTINF:-1,Peacock 18
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi_gqhGijd0LuUDAOeCuazL
+#EXTINF:-1,Peacock 17
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjQBMr8ZKMIBjkujKvRgJfA
+#EXTINF:-1,Peacock 16
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgYh7GhE-37-yuYaCiMOyN2
+#EXTINF:-1,Peacock 15
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi_IK7Dw-uYSaVUPvWRx-Yi
+#EXTINF:-1,Peacock 14
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiEHw0ofBWSIFmqn5Up5JCD
+#EXTINF:-1,Peacock 13
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjb7JLxWSBiXoYJSDpad_YT
+#EXTINF:-1,Peacock 12
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGie_d-fah-SmandGiWgPXd-
+#EXTINF:-1,Peacock 11
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiBLZ3amc4I1panw_K6hTBU
+#EXTINF:-1,Peacock 10
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiXJKWbfnP-DtfyiV8X8TB3
+#EXTINF:-1,Peacock 9
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiOZ2vWAGUg62vf8qB4J43D
+#EXTINF:-1,Peacock 8
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhapFyv9Wk-inuLr-lC5CCw
+#EXTINF:-1,Peacock 7
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiQ2RcaoSSqzhdlahu-75GB
+#EXTINF:-1,Peacock 6
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjmCdolO2eoQFEhVVncZ5qV
+#EXTINF:-1,Peacock 5
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjAGC9Lz0nCQwikAoYoOyLg
+#EXTINF:-1,Peacock 4
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjMSFSxfvEF6Mm54I6isUOr
+#EXTINF:-1,Peacock 3
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgqKWJIAVodI1uO_vAYm6S2
+#EXTINF:-1,Peacock 2
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgDW2v5myKoqB8QfYXlZ2LY
+#EXTINF:-1,Peacock 1
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjecWmz0HXLPOvhU7lI4tfh
+#EXTINF:-1,|ZA| SuperSport Maximo HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjbn2_DSf-gNdgZLrvkMt6S
+#EXTINF:-1,|ZA| SuperSport Blitz FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhsWgGO6ExZ026vdl8ICxy9
+#EXTINF:-1,|ZA| SuperSport Blitz HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGi3NY88BdwtPbOHasT75Y2Q
+#EXTINF:-1,|ZA| SuperSport Premier League FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhcYAZQhGc_pXq__zOISWuu
+#EXTINF:-1,|ZA| SuperSport Premier League HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgJRs143e5OWrleHFp7u1yL
+#EXTINF:-1,|ZA| SuperSport LaLiga FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjNEgZjfts2sqIJP6b6NLLO
+#EXTINF:-1,|ZA| SuperSport LaLiga HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgwgMzDvSVPukSTboY72rT9
+#EXTINF:-1,|ZA| SuperSport Football FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjpf_-qnp7SLyPoX6avQMjl
+#EXTINF:-1,|ZA| SuperSport Football HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhHbQu2khqTYquhfO5b3zXQ
+#EXTINF:-1,|ZA| SuperSport Football Plus HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjydXd3zzUfbERGU82Dmdol
+#EXTINF:-1,|ZA| SuperSport Action FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhMsM2cqTKQ-tc9ZMICAbeR
+#EXTINF:-1,|ZA| SuperSport Action HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh_39ng8fDBkZMCXEJWqBk6
+#EXTINF:-1,|ZA| SuperSport PSL FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiRXUMSQevUXJ9FnVTf1FMK
+#EXTINF:-1,|ZA| SuperSport PSL HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgQBNrRv6S7ZUc2lXhLYlwW
+#EXTINF:-1,|ZA| SuperSport Golf FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgasjN4j8K9fWaWldwDa-WN
+#EXTINF:-1,|ZA| SuperSport Golf HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGh5PAEkCfjC7_p2VEDuIlhP
+#EXTINF:-1,|ZA| SuperSport Tennis FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGg1Fz42s1rkatnzZtyPxkcC
+#EXTINF:-1,|ZA| SuperSport Tennis HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjRsb-jDFKIkogG-Q8HQhnn
+#EXTINF:-1,|ZA| SuperSport Rugby FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiRQNpHuCrxZGgoi0jab7Yx
+#EXTINF:-1,|ZA| SuperSport Rugby HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGir9MbX1XQ8Lwts5AXOMUeT
+#EXTINF:-1,|ZA| SuperSport Cricket FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjiYqMbawf4ecj7lKgEMwLA
+#EXTINF:-1,|ZA| SuperSport Cricket HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgYGd19sW84aiGJh8_-xJZ2
+#EXTINF:-1,|ZA| SuperSport Grandstand FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgFyLjdEROnZx_b-OQm7nf-
+#EXTINF:-1,|ZA| SuperSport Grandstand HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhS-i20P9jzz6ZY8r9OOEUU
+#EXTINF:-1,|ZA| SuperSport Variety 1 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjVizv_9NKKihhYADRvM8HR
+#EXTINF:-1,|ZA| SuperSport Variety 1 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgOmP29wLZd8ltAUgzhj4p1
+#EXTINF:-1,|ZA| SuperSport Variety 2 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGjkBInyq3EZmne5su399Cnt
+#EXTINF:-1,|ZA| SuperSport Variety 2 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiyetncfnR1JcFG65lEVuNx
+#EXTINF:-1,|ZA| SuperSport Variety 3 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGimWzJKJMOMmoVUBeEyrW8O
+#EXTINF:-1,|ZA| SuperSport Variety 3 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiHh8u_fU4Krz4sjFt3sgDj
+#EXTINF:-1,|ZA| SuperSport Variety 4 FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgZKEm3bwXKom4f2tlYqh9H
+#EXTINF:-1,|ZA| SuperSport Variety 4 HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhXAUA7xnqiqOu4xswFbJZX
+#EXTINF:-1,|ZA| SuperSport Motorsport FHD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGgo5k9E8bjMcwFinaK_aNPI
+#EXTINF:-1,|ZA| SuperSport Motorsport HD
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGhImV3tnshn9G9pgM0diNfu
+#EXTINF:-1,|ZA| SuperSport Play
+http://myomnitv.solanaflix.com:8080/play/DFnXhIB8B1sh0fwZAFyHZhJabPrsVGiU2iczzzJxpGiVUEgqP37Y4ayCvc-Aops0
